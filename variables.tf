@@ -13,7 +13,7 @@ variable az1 {
   default     = “”
   description = “description”
 }
-variable key_pair {
+variable key_name {
   type        = string
   default     = “”
   description = “description”
